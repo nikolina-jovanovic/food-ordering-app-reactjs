@@ -1,6 +1,6 @@
 _Food ordering app_
 
--I recommend running this code on your machine,since github pages (which hosted this project) doesn't represent the code in the same way as VSCode (images can't load,since they're in public folder, first page render also is not the same...).
+-I recommend running this code on your machine,since github pages (which hosted this project) doesn't represent the code in the same way as VSCode (images can't load, first render also is not the same...).
 
 Simple burger ordering app made for practice.
 -Used React Hooks (useState,useEffect),axios,React Router,onClick,onChange events;
