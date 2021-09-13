@@ -1,4 +1,4 @@
-_Food ordering app_
+*FOOD ORDERING APP*
 
 ![food-ordering-app1](https://user-images.githubusercontent.com/85742865/133164154-08140349-2afb-4b8e-953e-0ee8f96b3601.png)
 
